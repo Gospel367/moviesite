@@ -3,7 +3,7 @@ DESCRIPTION OF MOVIE WEBSITE PROJECT
 ====================================
 
 
-..contents:: Overview
+.. contents:: Overview
 
 
 Introduction
